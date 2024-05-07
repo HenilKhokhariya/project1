@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb6b8b52.css",
+    "main.js": "/static/js/main.3db50c98.js",
+    "static/js/453.93f24176.chunk.js": "/static/js/453.93f24176.chunk.js",
+    "static/media/JPG": "/static/media/171497948381010269.3aa348dfdf40cf566d93.JPG",
+    "static/media/1714814984282IMG_1124.jpg": "/static/media/1714814984282IMG_1124.9f5c07582c6153ef5b34.jpg",
+    "static/media/1714978078571IMG_1124.jpg": "/static/media/1714978078571IMG_1124.9f5c07582c6153ef5b34.jpg",
+    "static/media/1714981293340IMG_1124.jpg": "/static/media/1714981293340IMG_1124.9f5c07582c6153ef5b34.jpg",
+    "static/media/1714970845321IMG_1152.jpg": "/static/media/1714970845321IMG_1152.7851be3a9ea83e08371f.jpg",
+    "static/media/1714971782202IMG_1152.jpg": "/static/media/1714971782202IMG_1152.7851be3a9ea83e08371f.jpg",
+    "static/media/1714981252888IMG_1152.jpg": "/static/media/1714981252888IMG_1152.7851be3a9ea83e08371f.jpg",
+    "static/media/1715070360693IMG_1263.HEIC": "/static/media/1715070360693IMG_1263.8895d24fb2df77cb087f.HEIC",
+    "static/media/1714973762160Arc de Triomphe (HD).png": "/static/media/1714973762160Arc de Triomphe (HD).f84a82d0aad6ac06d042.png",
+    "static/media/1714974232502Screenshot 2024-05-06 111305.png": "/static/media/1714974232502Screenshot 2024-05-06 111305.a6e8a04594f95d8db262.png",
+    "static/media/1714981107758main-qimg-webp": "/static/media/1714981107758main-qimg-e5c9475f186ae65e1b3c8333ff7231d5.43b5bf8ce07f85739c8c.webp",
+    "static/media/screenshot1.png": "/static/media/screenshot1.d688ff1f110b88f3c0c9.png",
+    "static/media/1715057440618WhatsApp Image 2024-03-06 at 11.07.22_c72701e1.jpg": "/static/media/1715057440618WhatsApp Image 2024-03-06 at 11.07.22_c72701e1.d4470f41c1b783103345.jpg",
+    "static/media/1715070640463IMG_1089.heic": "/static/media/1715070640463IMG_1089.4b6dab7fb52f5a00fc68.heic",
+    "static/media/114-1143237_map-pin-icon-png-482939.png": "/static/media/114-1143237_map-pin-icon-png-482939.78b4495246e5a111ba04.png",
+    "static/media/624fcbea92f31.jpg": "/static/media/1714981216394ac3ddf7ce5bf2607b4c624fcbea92f31.563784180260a47d7d6e.jpg",
+    "static/media/1715057516189bjp-parliamentary-party-meeting-to-be-held-tomorrow.jpg": "/static/media/1715057516189bjp-parliamentary-party-meeting-to-be-held-tomorrow.6784b86a9be72edd0976.jpg",
+    "static/media/1714978176384download.jpeg": "/static/media/1714978176384download.1b6235cb994b2748f566.jpeg",
+    "static/media/1714980946530download.jpeg": "/static/media/1714980946530download.1b6235cb994b2748f566.jpeg",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.98d79ab0503c2f1f5bf6.png",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.eb6b8b52.css.map": "/static/css/main.eb6b8b52.css.map",
+    "main.3db50c98.js.map": "/static/js/main.3db50c98.js.map",
+    "453.93f24176.chunk.js.map": "/static/js/453.93f24176.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6b8b52.css",
+    "static/js/main.3db50c98.js"
+  ]
+}
